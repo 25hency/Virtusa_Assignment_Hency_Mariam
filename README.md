@@ -2,7 +2,7 @@
 
 Three complete projects in Python, SQL, and Java.
 
-## 1. Expense Tracker (Python - CLI)
+## 1. Expense Tracker (Python)
 
 Command-line app for tracking daily expenses.
 
@@ -16,6 +16,7 @@ python expense_tracker.py
 
 **Tools:** Python, JSON, matplotlib, datetime
 
+![alt text](image-1.png)
 ---
 
 ## 2. Retail Database (SQL)
@@ -35,9 +36,11 @@ SOURCE retail_database.sql;
 
 **Tools:** MySQL, Window Functions, Joins, Aggregations
 
+![alt text](image-2.png)
+
 ---
 
-## 3. Library Management (Java - GUI)
+## 3. Library Management (Java)
 
 App for managing books, users, and fines.
 
@@ -52,6 +55,8 @@ java LibraryGUI
 
 **Tools:** Java Swing, OOP, Collections, MVC Pattern
 
+![alt text](image.png)
+
 ---
 
 ## Projects Summary
@@ -59,7 +64,7 @@ java LibraryGUI
 | | Tracker | Database | Library |
 |---|---|---|---|
 | Language | Python | SQL | Java |
-| Interface | CLI | Terminal | GUI |
+| Interface | CLI | Terminal | CLI |
 | Purpose | Track expenses | Analyze sales | Manage books |
 | Storage | JSON | MySQL | Memory |
 
