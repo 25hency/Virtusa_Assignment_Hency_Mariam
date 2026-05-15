@@ -21,7 +21,7 @@ python expense_tracker.py
 
 ## 2. Retail Database (SQL)
 
-Database with 4 tables and 8 analysis queries.
+Database with 4 tables and 5 analysis queries.
 
 **Tables:** customers, products, orders, order_items  
 **Queries:** top products, best customers, revenue trends, category sales, inactive users
@@ -72,7 +72,7 @@ java LibraryGUI
 
 **SQL:** MySQL, joins, window functions, aggregation, filtering
 
-**Java:** Swing GUI, ArrayList, object-oriented design, design patterns
+**Java:** ArrayList, object-oriented design, design patterns
 
 ---
 
